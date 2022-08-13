@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: '40 Coder Plus',
         logo: {
-          alt: 'My Site Logo',
+          alt: '40 Coder Plus',
           src: 'img/logo.svg',
         },
         items: [
@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/40coderplus/40coderplus',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/40coderplus/40coderplus',
               },
             ],
           },
